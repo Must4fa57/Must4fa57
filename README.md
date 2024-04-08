@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me https://www.linkedin.com/in/mustafa-adil-7170901a7/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I m state level champ two different sport.
+- ⚡ Fun fact: I m state level champ of two different sport.
 
 <!---
 Must4fa57/Must4fa57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
